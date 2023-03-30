@@ -1,4 +1,6 @@
-### Olá! Eu sou o Marcos Reis Dutra
+# Olá eu sou Marcos Reis 
+ 
+Olá meu nome é Marcos Reis Dutra, estudante do Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO - Campus Calama, bem como membro participante do Grupo de Pesquisa em Soluções Tecnológicas do referido Campus. Desde sempre, nutri grande interesse em trabalhar com programação e, a fim de concretizar esse sonho, dediquei-me ao estudo de HTML, CSS e JavaScript. Atualmente, estou empenhado em aprimorar meus conhecimentos no desenvolvimento de aplicações Web, área que considero extremamente relevante e promissora.
 
 <div align="center">
   <a href="https://github.com/Marqueba">
